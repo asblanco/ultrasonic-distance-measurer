@@ -1,7 +1,9 @@
 # Ultrasonic distance measurer
 ## Authors
 Andrea Sanchez Blanco
+
 Borxa Mendez Candeias
+
 Lucia Chousal Rodriguez
 
 ## Description
